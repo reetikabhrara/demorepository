@@ -1,1 +1,2 @@
-push to master
+ p push to master
+amend news
